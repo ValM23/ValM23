@@ -1,11 +1,11 @@
-👋 Hi, I'm [Your Legal Name], though most people know me as Roxanna or Roxy (she/her).
+Hey, I'm Roxanna Valdez (she/her)—recruiters, brace for the plot twist: legal docs still scream Matthew Thomas Valdez thanks to ancient systems lagging behind life. 🌈🐧🏳️‍⚧️
 
-Currently thriving in Network Operations, I'm making the leap to Cyber Security, especially PenTesting and Red Teaming. Behind my legal name, you'll find someone who values inclusion and diversity—I use she/her pronouns and live authentically, so you'll see both my legal and chosen names across different platforms and applications.
+Day job: Drowning in NOC chaos, wrangling MSPs/ISPs on marathon calls, dispatching fixes, and burying ticket tsunamis. Spoiler: It's zero glamour—think bomb squad for pissed users, crap infrastructure, and schooling execs that we can't bully the web into behaving. Survived a spite-fueled overnight shift? Fist bump, comrade. 🛡️📞💥 No capes here, just hold-button mastery.
 
-I'm passionate about Python, AWS, Azure, and backend dev, with active learning in MySQL, full-stack engineering, Unity, and Blender. I'm always up for new challenges, especially where digital safety, teamwork, and creativity matter.
+Off-duty: PenTesting, Red Teaming, CTFs, chasing CPTS on Hack The Box. Linux loyalist—Endeavour OS + Hyprland, 'cause vanilla desktops are for quitters; I'd rather tinker configs till dawn. Powered by Monster Energy and soda regrets. ☕🖥️😴
 
-Looking to connect or collaborate on CyberSec, game dev, AI, or data analytics? Reach out by email, GitHub, or LinkedIn. Let's make something meaningful together!
+Skills: Ruby, Python, C++, Rust (trans + Rust? Cosmic joke). 🤓🏳️‍⚧️ AWS, Docker, 2AM VMs? Let's vibe. Windows? Tolerated. Endeavour saves my sanity.
+Dream: Red Team/Threat Hunt/Malware Analyst—zero Karens mistaking routers for sorcery. Red-state life? Compartmentalize or perish. 🌶️🦸‍♀️
 
-<!---ValM23/ValM23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recruiters: Read this? You're elite. Don't ghost; let's plot real gigs. 🦄📩
+Ping me: Email, GitHub, LinkedIn, or a sassy PR to flex your attention span. 🚀
