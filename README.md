@@ -1,10 +1,10 @@
-# Roxy
+# Matthew Valdez (Roxy)
 
 Offensive security researcher — vulnerability research, reverse
 engineering, and OSINT tooling. Currently working through Hack The Box's
 Penetration Testing job-role path.
 
-**Portfolio:** [valm23.github.io](https://valm23.github.io) · **LinkedIn:** [Roxy](https://linkedin.com/in/matttvaldez)
+**Portfolio:** [valm23.github.io](https://valm23.github.io) · **LinkedIn:** [Matthew Valdez](https://linkedin.com/in/matttvaldez)
 
 ## Selected work
 
@@ -16,5 +16,5 @@ Penetration Testing job-role path.
 
 ## Background
 
-Security consultant, independent streaming/media production — vulnerability
-assessment and hardening work outside the day job.
+Independent security research and infrastructure consulting — vulnerability
+assessment, hardening, and open-source tooling outside prior operations roles.
