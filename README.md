@@ -1,20 +1,26 @@
 # Matthew Valdez (Roxy)
 
-Offensive security researcher — vulnerability research, reverse
-engineering, and OSINT tooling. Currently working through Hack The Box's
-Penetration Testing job-role path.
+Security operations experience across SCADA/OT and IT, with independent work in offensive security research, Python tooling, and self-hosted infrastructure.
 
-**Portfolio:** [valm23.github.io](https://valm23.github.io) · **LinkedIn:** [Matthew Valdez](https://linkedin.com/in/matttvaldez)
+[Portfolio](https://valm23.github.io/) · [Technical writeups](https://valm23.github.io/writeups) · [LinkedIn](https://linkedin.com/in/matttvaldez)
 
 ## Selected work
 
-| | |
-|---|---|
-| [`dork2intel`](https://github.com/ValM23/dork2intel) | Google dorks → AI-native search prompts → Tavily search → local-LLM analysis. Iterable OSINT pipeline with persisted sessions and agent skill generation. |
-| [`SonicPi-Stenographic-Encoder`](https://github.com/ValM23/SonicPi-Stenographic-Encoder) | Steganographic encoder — RSA-encrypted payloads reshaped into MIDI/audio via Sonic Pi, as a research case for DLP evasion. |
-| [`HTB-Notes-PenTestingRoute`](https://github.com/ValM23/HTB-Notes-PenTestingRoute) | Working notes from Hack The Box's Penetration Testing job-role track. |
+- **[dork2intel](https://github.com/ValM23/dork2intel)** — Python OSINT pipeline connecting parsed search operators, Tavily search, and local Ollama analysis. Includes persisted sessions and a keyless demo. Results require human validation.
+- **[SonicPi Steganographic Encoder](https://github.com/ValM23/SonicPi-Stenographic-Encoder)** — Research prototype encoding RSA-OAEP payloads into reversible MIDI note sequences. Includes round-trip tests; waveform decoding and measured DLP bypass are outside its demonstrated scope.
 
-## Background
+## Research contributions
 
-Independent security research and infrastructure consulting — vulnerability
-assessment, hardening, and open-source tooling outside prior operations roles.
+- **Collaborative PHP security research** — supported research coordination and performed scoped testing on authorized systems within the team’s own infrastructure, verifying observed test results.
+- **LLM-assisted research** — use LLMs to assist research, coding, and initial vulnerability investigation and testing on authorized internal infrastructure.
+
+## Background and learning
+
+- Network Operations Technician I, Kinder Morgan Energy Partners, August 2018–September 2025.
+- MSOC Technician, TrustComm, May 2017–May 2018.
+- CompTIA Security+, valid through November 2027.
+- HTB Certified Penetration Testing Specialist: in progress.
+- B.S. Economics, Arizona State University: expected May 2028.
+- A.A. Liberal Arts, Houston Community College.
+
+My current work connects an operations perspective with practical security testing, documented limitations, and reproducible tooling.
